@@ -1,5 +1,4 @@
 defmodule Day2 do
-  require Logger
   @input File.read!("inputs/day/2/input.txt")
 
   def part_one do
