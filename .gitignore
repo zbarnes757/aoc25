@@ -21,3 +21,9 @@ aoc25-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Elixir LS
+.elixir_ls/
+
+# Puzzle inputs
+/inputs/
